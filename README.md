@@ -198,3 +198,7 @@ SQLAdvisor 是由美团点评公司北京DBA团队开发维护的 SQL 优化工�
 ### 六、微服务架构容器化
 
 ![img](images/19.png)
+
+## License
+
+Everything is [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
