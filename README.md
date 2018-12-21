@@ -4,7 +4,7 @@
 
 ![img](images/01.png)
 
-![img](./images/02.png)
+![img](images/02.png)
 
 
 #### 1.2 运维自动化平台功能组件概述
@@ -56,9 +56,9 @@
 
 #### 2.1 用户角色的权限分配
 
-![img](../images/03.png)
+![img](images/03.png)
 
-![img](../images/04.png)
+![img](images/04.png)
 
 权限控制原理：
 
@@ -69,7 +69,7 @@
 
 #### 2.2 统一权限认证接口
 
-![img](../images/05.png)
+![img](images/05.png)
 
 接口认证原理：
 
@@ -84,14 +84,14 @@
 
 #### 3.1 自定义任务模板
 
-![img](../images/06.png)
+![img](images/06.png)
 
 每个模板都可自定义命令列表，可单独设置每条命令出发条件及参数
 
 
 #### 3.2 任务操作
 
-![img](../images/07.png)任务可接手，接手后开始执行
+![img](images/07.png)任务可接手，接手后开始执行
 
 任务可重做，可终止
 
@@ -102,7 +102,7 @@
 
 #### 4.1 资源申请(AWS,阿里云,腾讯)
 
-![img](../images/08.png)
+![img](images/08.png)
 
 1、运营或项目组自助申请服务器                      
 
@@ -115,7 +115,7 @@
 
 #### 4.2 自动化部署
 
-![img](../images/09.png)
+![img](images/09.png)
 
 1、自定义实例类型,所需要部署的服务
 
@@ -136,7 +136,7 @@
 
 #### 4.3自动化发布
 
-![img](../images/10.png)
+![img](images/10.png)
 
 **1、开发人员按照规范打Tag**
 
@@ -152,12 +152,12 @@
 
    如release-ft,则表示把该tag的代码发布到FT正式服
 
-![img](../images/11.png)
+![img](images/11.png)
 
 
 #### 4.4自动化扩容
 
-![img](../images/12.png)
+![img](images/12.png)
 
 **1、监控系统监控web负载                                 **
 
@@ -168,14 +168,14 @@
 
 #### 4.5 自动化代码检查
 
-![img](../images/13.png)
+![img](images/13.png)
 
-![img](../images/14.png)
+![img](images/14.png)
 
 
 #### 4.6 SQL优化
 
-![img](../images/15.png)
+![img](images/15.png)
 
 SQLAdvisor 是由美团点评公司北京DBA团队开发维护的 SQL 优化工具：输入SQL，输出索引优化建议。 它基于 MySQL 原生词法解析，再结合 SQL 中的 where 条件以及字段选择度、聚合条件、多表 Join 关系等最终输出最优的索引优化建议。目前 SQLAdvisor 在公司内部大量使用，较为成熟、稳定。
 
